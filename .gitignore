@@ -2,3 +2,5 @@
 static-site/.vscode/
 
 *.code-workspace
+
+react-clock/public/image/background/

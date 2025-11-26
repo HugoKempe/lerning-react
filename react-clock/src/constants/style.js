@@ -80,6 +80,9 @@ export const STYLE = {
     BOX_SHADOW: {
         DARK: "0px 2px 16px 0px 0px rgba(0,0,0,0.36)",
         LIGHT: "0px 2px 16px 0px 0px rgba(0,0,0,0.16)"
+    },
+    TEXT_SHADOW: {
+      SMALL: "3px 3px 5px rgba(0,0,0,0.7)"
     }
   }
 };

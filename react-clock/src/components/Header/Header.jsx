@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { STYLE } from "../../constants/style";
 
 const StyledTitle = styled.h2`
   /* font-weight: 600; */
@@ -6,7 +7,7 @@ const StyledTitle = styled.h2`
   font-weight: 400;
   font-style: normal;
 
-  font-size: 5rem;
+  font-size: 5em;
   text-align: center;
 
   line-height: 1.2rem;
@@ -14,7 +15,7 @@ const StyledTitle = styled.h2`
 `;
 
 const HeaderContainer = styled.div`
-  background-color: hsl(0, 0%, 10%);
+  background-color: ${STYLE.COLORS.BASE.BASE_20};
   padding: 0.5rem;
 
   display: flex;
@@ -25,10 +26,10 @@ const HeaderContainer = styled.div`
 `;
 
 const HeaderItem = styled.div`
-  background-color: hsl(0, 0%, 15%);
-  color: #e8e8e8;
+  background-color: ${STYLE.COLORS.BASE.BASE_19};
+  color: ${STYLE.COLORS.ACCENT.BLUE_08};
 
-	font-weight: 500;
+  font-weight: 500;
   padding: 1rem;
 `;
 
@@ -38,7 +39,6 @@ function Header({ title }) {
       <HeaderContainer className="noselect">
         <HeaderItem>
           <StyledTitle>{title}</StyledTitle>
-
         </HeaderItem>
       </HeaderContainer>
     </>
