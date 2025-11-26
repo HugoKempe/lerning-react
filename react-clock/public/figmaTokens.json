@@ -1,0 +1,698 @@
+{
+  "plainStyle": {
+    "Base": {
+      "Base 01": {
+        "name": "Base/Base 01",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "FFFFFF",
+        "rgb": "rgb(255,255,255)",
+        "hex": "#ffffff",
+        "opacity": 1,
+        "hex8": "#ffffffff"
+      },
+      "Base 02": {
+        "name": "Base/Base 02",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "F0F0F0",
+        "rgb": "rgb(240,240,240)",
+        "hex": "#f0f0f0",
+        "opacity": 1,
+        "hex8": "#f0f0f0ff"
+      },
+      "Base 03": {
+        "name": "Base/Base 03",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "E7E7E7",
+        "rgb": "rgb(231,231,231)",
+        "hex": "#e7e7e7",
+        "opacity": 1,
+        "hex8": "#e7e7e7ff"
+      },
+      "Base 04": {
+        "name": "Base/Base 04",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "E5E5E5",
+        "rgb": "rgb(229,229,229)",
+        "hex": "#e5e5e5",
+        "opacity": 1,
+        "hex8": "#e5e5e5ff"
+      },
+      "Base 05": {
+        "name": "Base/Base 05",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "D4D4D4",
+        "rgb": "rgb(212,212,212)",
+        "hex": "#d4d4d4",
+        "opacity": 1,
+        "hex8": "#d4d4d4ff"
+      },
+      "Base 06": {
+        "name": "Base/Base 06",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "CCCCCC",
+        "rgb": "rgb(204,204,204)",
+        "hex": "#cccccc",
+        "opacity": 1,
+        "hex8": "#ccccccff"
+      },
+      "Base 07": {
+        "name": "Base/Base 07",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "C6C6C6",
+        "rgb": "rgb(198,198,198)",
+        "hex": "#c6c6c6",
+        "opacity": 1,
+        "hex8": "#c6c6c6ff"
+      },
+      "Base 08": {
+        "name": "Base/Base 08",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "BBBBBB",
+        "rgb": "rgb(187,187,187)",
+        "hex": "#bbbbbb",
+        "opacity": 1,
+        "hex8": "#bbbbbbff"
+      },
+      "Base 09": {
+        "name": "Base/Base 09",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "A0A0A0",
+        "rgb": "rgb(160,160,160)",
+        "hex": "#a0a0a0",
+        "opacity": 1,
+        "hex8": "#a0a0a0ff"
+      },
+      "Base 10": {
+        "name": "Base/Base 10",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": 808080,
+        "rgb": "rgb(128,128,128)",
+        "hex": "#808080",
+        "opacity": 1,
+        "hex8": "#808080ff"
+      },
+      "Base 11": {
+        "name": "Base/Base 11",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "7F7F7F",
+        "rgb": "rgb(127,127,127)",
+        "hex": "#7f7f7f",
+        "opacity": 1,
+        "hex8": "#7f7f7fff"
+      },
+      "Base 12": {
+        "name": "Base/Base 12",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": 606060,
+        "rgb": "rgb(96,96,96)",
+        "hex": "#606060",
+        "opacity": 1,
+        "hex8": "#606060ff"
+      },
+      "Base 13": {
+        "name": "Base/Base 13",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": 454545,
+        "rgb": "rgb(69,69,69)",
+        "hex": "#454545",
+        "opacity": 1,
+        "hex8": "#454545ff"
+      },
+      "Base 14": {
+        "name": "Base/Base 14",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "3C3C3C",
+        "rgb": "rgb(60,60,60)",
+        "hex": "#3c3c3c",
+        "opacity": 1,
+        "hex8": "#3c3c3cff"
+      },
+      "Base 15": {
+        "name": "Base/Base 15",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "3A3D41",
+        "rgb": "rgb(58,61,65)",
+        "hex": "#3a3d41",
+        "opacity": 1,
+        "hex8": "#3a3d41ff"
+      },
+      "Base 16": {
+        "name": "Base/Base 16",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": 333333,
+        "rgb": "rgb(51,51,51)",
+        "hex": "#333333",
+        "opacity": 1,
+        "hex8": "#333333ff"
+      },
+      "Base 17": {
+        "name": "Base/Base 17",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": 303031,
+        "rgb": "rgb(48,48,49)",
+        "hex": "#303031",
+        "opacity": 1,
+        "hex8": "#303031ff"
+      },
+      "Base 18": {
+        "name": "Base/Base 18",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": 292929,
+        "rgb": "rgb(41,41,41)",
+        "hex": "#292929",
+        "opacity": 1,
+        "hex8": "#292929ff"
+      },
+      "Base 19": {
+        "name": "Base/Base 19",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": 252526,
+        "rgb": "rgb(37,37,38)",
+        "hex": "#252526",
+        "opacity": 1,
+        "hex8": "#252526ff"
+      },
+      "Base 20": {
+        "name": "Base/Base 20",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "1E1E1E",
+        "rgb": "rgb(30,30,30)",
+        "hex": "#1e1e1e",
+        "opacity": 1,
+        "hex8": "#1e1e1eff"
+      },
+      "Base 21": {
+        "name": "Base/Base 21",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "000000",
+        "rgb": "rgb(0,0,0)",
+        "hex": "#000000",
+        "opacity": 1,
+        "hex8": "#000000ff"
+      }
+    },
+    "": {
+      "Accent": {
+        "Blue 01": {
+          "name": "/Accent/Blue 01",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "75BEFF",
+          "rgb": "rgb(117,190,255)",
+          "hex": "#75beff",
+          "opacity": 1,
+          "hex8": "#75beffff"
+        },
+        "Blue 02": {
+          "name": "/Accent/Blue 02",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "40A6FF",
+          "rgb": "rgb(64,166,255)",
+          "hex": "#40a6ff",
+          "opacity": 1,
+          "hex8": "#40a6ffff"
+        },
+        "Blue 03": {
+          "name": "/Accent/Blue 03",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "3399CC",
+          "rgb": "rgb(51,153,204)",
+          "hex": "#3399cc",
+          "opacity": 1,
+          "hex8": "#3399ccff"
+        },
+        "Blue 04": {
+          "name": "/Accent/Blue 04",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "3794FF",
+          "rgb": "rgb(55,148,255)",
+          "hex": "#3794ff",
+          "opacity": 1,
+          "hex8": "#3794ffff"
+        },
+        "Blue 05": {
+          "name": "/Accent/Blue 05",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "0097FB",
+          "rgb": "rgb(0,151,251)",
+          "hex": "#0097fb",
+          "opacity": 1,
+          "hex8": "#0097fbff"
+        },
+        "Blue 06": {
+          "name": "/Accent/Blue 06",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "007ACC",
+          "rgb": "rgb(0,122,204)",
+          "hex": "#007acc",
+          "opacity": 1,
+          "hex8": "#007accff"
+        },
+        "Blue 07": {
+          "name": "/Accent/Blue 07",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "0E639C",
+          "rgb": "rgb(14,99,156)",
+          "hex": "#0e639c",
+          "opacity": 1,
+          "hex8": "#0e639cff"
+        },
+        "Blue 08": {
+          "name": "/Accent/Blue 08",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "264F78",
+          "rgb": "rgb(38,79,120)",
+          "hex": "#264f78",
+          "opacity": 1,
+          "hex8": "#264f78ff"
+        },
+        "Blue 09": {
+          "name": "/Accent/Blue 09",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "094771",
+          "rgb": "rgb(9,71,113)",
+          "hex": "#094771",
+          "opacity": 1,
+          "hex8": "#094771ff"
+        },
+        "Blue 10": {
+          "name": "/Accent/Blue 10",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "062F4A",
+          "rgb": "rgb(6,47,74)",
+          "hex": "#062f4a",
+          "opacity": 1,
+          "hex8": "#062f4aff"
+        },
+        "Blue 11": {
+          "name": "/Accent/Blue 11",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "001F33",
+          "rgb": "rgb(0,31,51)",
+          "hex": "#001f33",
+          "opacity": 1,
+          "hex8": "#001f33ff"
+        },
+        "Red 01": {
+          "name": "/Accent/Red 01",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "F14C4C",
+          "rgb": "rgb(241,76,76)",
+          "hex": "#f14c4c",
+          "opacity": 1,
+          "hex8": "#f14c4cff"
+        },
+        "Red 03": {
+          "name": "/Accent/Red 03",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "FF0000",
+          "rgb": "rgb(255,0,0)",
+          "hex": "#ff0000",
+          "opacity": 1,
+          "hex8": "#ff0000ff"
+        },
+        "Red 04": {
+          "name": "/Accent/Red 04",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "A31515",
+          "rgb": "rgb(163,21,21)",
+          "hex": "#a31515",
+          "opacity": 1,
+          "hex8": "#a31515ff"
+        },
+        "Green 01": {
+          "name": "/Accent/Green 01",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "73C991",
+          "rgb": "rgb(115,201,145)",
+          "hex": "#73c991",
+          "opacity": 1,
+          "hex8": "#73c991ff"
+        },
+        "Green 02": {
+          "name": "/Accent/Green 02",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "40C8AE",
+          "rgb": "rgb(64,200,174)",
+          "hex": "#40c8ae",
+          "opacity": 1,
+          "hex8": "#40c8aeff"
+        },
+        "Green 03": {
+          "name": "/Accent/Green 03",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "16825D",
+          "rgb": "rgb(22,130,93)",
+          "hex": "#16825d",
+          "opacity": 1,
+          "hex8": "#16825dff"
+        },
+        "Green 04": {
+          "name": "/Accent/Green 04",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": 3.27e+38,
+          "rgb": "rgb(50,126,54)",
+          "hex": "#327e36",
+          "opacity": 1,
+          "hex8": "#327e36ff"
+        },
+        "Green 05": {
+          "name": "/Accent/Green 05",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "",
+          "rgb": "rgb(40,99,43)",
+          "hex": "#28632b",
+          "opacity": 1,
+          "hex8": "#28632bff"
+        },
+        "Purple 01": {
+          "name": "/Accent/Purple 01",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "6C6CC4",
+          "rgb": "rgb(108,108,196)",
+          "hex": "#6c6cc4",
+          "opacity": 1,
+          "hex8": "#6c6cc4ff"
+        },
+        "Purple 02": {
+          "name": "/Accent/Purple 02",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "",
+          "rgb": "rgb(177,128,215)",
+          "hex": "#b180d7",
+          "opacity": 1,
+          "hex8": "#b180d7ff"
+        },
+        "Purple 03": {
+          "name": "/Accent/Purple 03",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "BC3FBC",
+          "rgb": "rgb(188,63,188)",
+          "hex": "#bc3fbc",
+          "opacity": 1,
+          "hex8": "#bc3fbcff"
+        },
+        "Purple 04": {
+          "name": "/Accent/Purple 04",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "68217A",
+          "rgb": "rgb(104,33,122)",
+          "hex": "#68217a",
+          "opacity": 1,
+          "hex8": "#68217aff"
+        },
+        "Yellow 01": {
+          "name": "/Accent/Yellow 01",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "D7BA7D",
+          "rgb": "rgb(215,186,125)",
+          "hex": "#d7ba7d",
+          "opacity": 1,
+          "hex8": "#d7ba7dff"
+        },
+        "Yellow 02": {
+          "name": "/Accent/Yellow 02",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "CCA700",
+          "rgb": "rgb(204,167,0)",
+          "hex": "#cca700",
+          "opacity": 1,
+          "hex8": "#cca700ff"
+        },
+        "Yellow 03": {
+          "name": "/Accent/Yellow 03",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "B89500",
+          "rgb": "rgb(184,149,0)",
+          "hex": "#b89500",
+          "opacity": 1,
+          "hex8": "#b89500ff"
+        },
+        "Orange 01": {
+          "name": "/Accent/Orange 01",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "CC6633",
+          "rgb": "rgb(204,102,51)",
+          "hex": "#cc6633",
+          "opacity": 1,
+          "hex8": "#cc6633ff"
+        },
+        "Orange 02": {
+          "name": "/Accent/Orange 02",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "EE9D28",
+          "rgb": "rgb(238,157,40)",
+          "hex": "#ee9d28",
+          "opacity": 1,
+          "hex8": "#ee9d28ff"
+        },
+        "Orange 03": {
+          "name": "/Accent/Orange 03",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "EA5C00",
+          "rgb": "rgb(234,92,0)",
+          "hex": "#ea5c00",
+          "opacity": 1,
+          "hex8": "#ea5c00ff"
+        }
+      },
+      "Seti": {
+        "Blue": {
+          "name": "/Seti/Blue",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "519ABA",
+          "rgb": "rgb(81,154,186)",
+          "hex": "#519aba",
+          "opacity": 1,
+          "hex8": "#519abaff"
+        },
+        "Green": {
+          "name": "/Seti/Green",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "8DC149",
+          "rgb": "rgb(141,193,73)",
+          "hex": "#8dc149",
+          "opacity": 1,
+          "hex8": "#8dc149ff"
+        },
+        "Red": {
+          "name": "/Seti/Red",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "CC3E44",
+          "rgb": "rgb(204,62,68)",
+          "hex": "#cc3e44",
+          "opacity": 1,
+          "hex8": "#cc3e44ff"
+        },
+        "Orange": {
+          "name": "/Seti/Orange",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "E37933",
+          "rgb": "rgb(227,121,51)",
+          "hex": "#e37933",
+          "opacity": 1,
+          "hex8": "#e37933ff"
+        },
+        "Pink": {
+          "name": "/Seti/Pink",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "F55385",
+          "rgb": "rgb(245,83,133)",
+          "hex": "#f55385",
+          "opacity": 1,
+          "hex8": "#f55385ff"
+        },
+        "Steel": {
+          "name": "/Seti/Steel",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "7494A3",
+          "rgb": "rgb(116,148,163)",
+          "hex": "#7494a3",
+          "opacity": 1,
+          "hex8": "#7494a3ff"
+        },
+        "Yellow": {
+          "name": "/Seti/Yellow",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "CBCB41",
+          "rgb": "rgb(203,203,65)",
+          "hex": "#cbcb41",
+          "opacity": 1,
+          "hex8": "#cbcb41ff"
+        },
+        "Purple": {
+          "name": "/Seti/Purple",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "",
+          "rgb": "rgb(160,116,196)",
+          "hex": "#a074c4",
+          "opacity": 1,
+          "hex8": "#a074c4ff"
+        },
+        "Ignore": {
+          "name": "/Seti/Ignore",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "41535B",
+          "rgb": "rgb(65,83,91)",
+          "hex": "#41535b",
+          "opacity": 1,
+          "hex8": "#41535bff"
+        },
+        "Gray": {
+          "name": "/Seti/Gray",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "D4D7D6",
+          "rgb": "rgb(109,128,134)",
+          "hex": "#6d8086",
+          "opacity": 1,
+          "hex8": "#6d8086ff"
+        },
+        "White": {
+          "name": "/Seti/White",
+          "type": "SOLID",
+          "blendMode": "NORMAL",
+          "description": "D4D7D6",
+          "rgb": "rgb(212,215,214)",
+          "hex": "#d4d7d6",
+          "opacity": 1,
+          "hex8": "#d4d7d6ff"
+        }
+      }
+    },
+    "Accent": {
+      "Gray 01": {
+        "name": "Accent/Gray 01",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "E4E6F1",
+        "rgb": "rgb(228,230,241)",
+        "hex": "#e4e6f1",
+        "opacity": 1,
+        "hex8": "#e4e6f1ff"
+      },
+      "Gray 02": {
+        "name": "Accent/Gray 02",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "5F6A79",
+        "rgb": "rgb(95,106,121)",
+        "hex": "#5f6a79",
+        "opacity": 1,
+        "hex8": "#5f6a79ff"
+      },
+      "Gray 03": {
+        "name": "Accent/Gray 03",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": 424750,
+        "rgb": "rgb(66,71,80)",
+        "hex": "#424750",
+        "opacity": 1,
+        "hex8": "#424750ff"
+      },
+      "Red 02": {
+        "name": "Accent/Red 02",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "C74E39",
+        "rgb": "rgb(199,78,57)",
+        "hex": "#c74e39",
+        "opacity": 1,
+        "hex8": "#c74e39ff"
+      },
+      "Yellow 04": {
+        "name": "Accent/Yellow 04",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "",
+        "rgb": "rgb(191,136,3)",
+        "hex": "#bf8803",
+        "opacity": 1,
+        "hex8": "#bf8803ff"
+      },
+      "Yellow 05": {
+        "name": "Accent/Yellow 05",
+        "type": "SOLID",
+        "blendMode": "NORMAL",
+        "description": "FFFF00",
+        "rgb": "rgb(255,255,0)",
+        "hex": "#ffff00",
+        "opacity": 1,
+        "hex8": "#ffff00ff"
+      }
+    }
+  },
+  "effectStyle": {
+    "Dark Shadow": {
+      "name": "Dark Shadow",
+      "description": "",
+      "type": "SHADOW",
+      "boxShadow": "0px 2px 16px 0px 0px rgba(0,0,0,0.36)"
+    },
+    "Light Shadow": {
+      "name": "Light Shadow",
+      "description": "",
+      "type": "SHADOW",
+      "boxShadow": "0px 2px 16px 0px 0px rgba(0,0,0,0.16)"
+    }
+  }
+}
