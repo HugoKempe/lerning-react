@@ -1,0 +1,105 @@
+body {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-content: center;
+
+  font-family: "Geologica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "slnt" 0, "CRSV" 0, "SHRP" 0;
+
+  font-size: 18px;
+
+  background-color: #262626;
+}
+
+
+
+.special {
+  color: #ee5396;
+}
+
+.text {
+  font-family: "Geologica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "slnt" 0, "CRSV" 0, "SHRP" 0;
+}
+
+.text-code {
+  font-family: "best-choice", mono;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text-code-emphasis {
+  font-family: "best-choice", mono;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.wrapper {
+  width: 70%;
+  background-color: #525252;
+  padding: 1em;
+}
+
+.flex-container {
+  display: inline-flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: stretch;
+  align-content: flex-start;
+}
+
+.flex-item {
+  background-color: #161616;
+  
+  margin: 1em;
+
+  text-align: center;
+
+  flex: 25%;
+
+  border-top: #08bdba 0.3rem solid;
+}
+
+.flex-item .title-bar {
+  background-color: #262626;
+  color: #f2f2f2;
+
+  padding: 0.5rem;
+
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.flex-item .main {
+  background-color: #161616;
+  color: #dde1e6;
+
+  align-self: center;
+
+  border: #373737 0.3rem dotted;
+  
+  margin: 0.5rem;
+  padding: 1rem;
+
+  font-size: 1.5rem;
+  text-align: left;
+  line-height: 1.25em;
+
+}
+
+.flex-container .bad {
+  color: #f1f1f1;
+  background-color: #161616;
+  width: auto;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
