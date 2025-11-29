@@ -2,6 +2,16 @@
 import { styled } from "styled-components";
 import { STYLE } from "../../constants";
 
+function Footer() {
+  return (
+    <>
+      <StyledFooter>
+        <h3>Footer</h3>
+      </StyledFooter>
+    </>
+  );
+}
+
 const StyledFooter = styled.footer`
   padding: .5em;
   text-align: center;
@@ -24,15 +34,5 @@ const StyledFooter = styled.footer`
     font-size: 0.75em;
   }
 `;
-
-function Footer() {
-  return (
-    <>
-      <StyledFooter>
-        <h3>Footer</h3>
-      </StyledFooter>
-    </>
-  );
-}
 
 export default Footer;

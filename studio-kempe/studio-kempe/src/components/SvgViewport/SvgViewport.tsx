@@ -28,22 +28,6 @@ const FlexContainer = styled.div`
 
 `
 
-// background:
-//       radial-gradient(50% 50% at 100% 0,#13430d 0%  5% ,#eaad5b 6%  15%,#13430d 16% 25%,#eaad5b 26% 35%,#13430d 36% 45%,
-//        #eaad5b 46% 55%,#13430d 56% 65%,#eaad5b 66% 75%,#13430d 76% 85%,#eaad5b 86% 95%,
-//        #0000 96%),
-//       radial-gradient(50% 50% at 0 100%,#13430d 0%  5% ,#eaad5b 6%  15%,#13430d 16% 25%,#eaad5b 26% 35%,#13430d 36% 45%,
-//        #eaad5b 46% 55%,#13430d 56% 65%,#eaad5b 66% 75%,#13430d 76% 85%,#eaad5b 86% 95%,
-//        #0000 96%),
-//       radial-gradient(50% 50%,#13430d 0%  5% ,#eaad5b 6%  15%,#13430d 16% 25%,#eaad5b 26% 35%,#13430d 36% 45%,
-//        #eaad5b 46% 55%,#13430d 56% 65%,#eaad5b 66% 75%,#13430d 76% 85%,#eaad5b 86% 95%,
-//        #0000 96%),
-//       radial-gradient(50% 50%,#13430d 0%  5% ,#eaad5b 6%  15%,#13430d 16% 25%,#eaad5b 26% 35%,#13430d 36% 45%,
-//        #eaad5b 46% 55%,#13430d 56% 65%,#eaad5b 66% 75%,#13430d 76% 85%,#eaad5b 86% 95%,
-//        #0000 96%) 50px 50px;
-// background-size: 100px 100px;
-// background-color: #13430d;
-
 const ViewportContainer = styled(FlexContainer)`
   padding: 1rem;
   display: inline-block;
