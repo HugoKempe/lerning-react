@@ -1,2 +1,10 @@
 
 static-site/.vscode/
+
+.history/
+
+studio-kempe/studio-kempe/.vite/deps/
+
+studio-kempe/studio-kempe/node_modules/
+
+*.code-workspace
