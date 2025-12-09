@@ -2,6 +2,4 @@
 
 ___
 
-> My Journy
-
-
+> Slider Branch
